@@ -12,9 +12,9 @@ The text is not intended as absolute denial or confirmation, but rather as an **
 ## 🌍 Available Versions
 This article is available in three languages:
 
-- 🇮🇷 [فارسی (Persian)](../fa/README.md)  
-- 🇸🇦 [العربية (Arabic)](../ar/README.md)  
-- 🇬🇧 [English](../en/README.md)  
+- 🇮🇷 [فارسی (Persian)](./fa/README.md)  
+- 🇸🇦 [العربية (Arabic)](./ar/README.md)  
+- 🇬🇧 [English](./en/README.md)  
 
 ---
 
