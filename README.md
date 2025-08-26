@@ -1,43 +1,43 @@
-# بهشت به پهنای پرسش، جهنم به عمق باگ  
+# Heaven as Wide as Questions, Hell as Deep as Bugs  
 *(A Software Engineer’s Code Review of the Quran)*
 
-## 📜 معرفی پروژه
-این پروژه یک مقاله تحلیلی است که متن قرآن را از زاویه دید یک مهندس نرم‌افزار بررسی می‌کند.  
-با استفاده از مفاهیم مهندسی نرم‌افزار مانند **System Architecture**، **Debugging**، **Legacy Code** و **User Experience**، تلاش شده است تا ساختار، انسجام و تجربه کاربری «سیستم وحی» تحلیل شود.  
+## 📜 Project Introduction
+This project is an analytical article that examines the Quranic text from the perspective of a software engineer.  
+Using software engineering concepts such as **System Architecture**, **Debugging**, **Legacy Code**, and **User Experience**, it analyzes the structure, internal consistency, and user experience of the "Revelation System."
 
-این متن نه با هدف انکار یا تأیید قطعی، بلکه به‌عنوان یک **Code Review فکری** نوشته شده است؛ دعوتی به تدبر، پرسشگری و نگاه ساختاریافته به متنی که قرن‌ها الهام‌بخش بوده است.
-
----
-
-## 🌍 نسخه‌ها
-این مقاله در سه زبان منتشر شده است:
-
-- 🇮🇷 [فارسی](fa/README.md)  
-- 🇸🇦 [العربية](ar/README.md)  
-- 🇬🇧 [English](en/README.md)  
+The text is not intended as absolute denial or confirmation, but rather as an **intellectual code review** — an invitation to reflection, questioning, and structured thinking about a text that has inspired humanity for centuries.
 
 ---
 
-## 🛠 ساختار مقاله
-مقاله در قالب هفت بخش اصلی نوشته شده است:
+## 🌍 Available Versions
+This article is available in three languages:
 
-1. **System Requirements** – نیازمندی‌های سیستم وحی  
-2. **Architecture Design** – معماری آیات  
-3. **Debugging** – رفع باگ‌های ظاهری  
-4. **Legacy Code** – کدهای به ارث رسیده از سیستم‌های قبلی  
-5. **User Experience** – تجربه کاربر (انسان)  
-6. **Deployment & Maintenance** – استقرار و نگهداری وحی  
-7. **Final Release Notes** – یادداشت نسخه نهایی  
-
-در هر بخش، آیات مرتبط به زبان عربی و ترجمه فارسی/انگلیسی آورده شده‌اند تا خواننده بتواند مستقیماً به متن مراجعه کند.
+- 🇮🇷 [فارسی (Persian)](../fa/README.md)  
+- 🇸🇦 [العربية (Arabic)](../ar/README.md)  
+- 🇬🇧 [English](../en/README.md)  
 
 ---
 
-## ⚖️ لایسنس
-این پروژه تحت مجوز [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) منتشر شده است.  
-شما می‌توانید آن را بازنشر، ویرایش و ترجمه کنید، به شرط آنکه به منبع اصلی اشاره کنید و نسخه‌های مشتق‌شده را با همین مجوز منتشر نمایید.
+## 🛠 Article Structure
+The article is written in seven main sections:
+
+1. **System Requirements** – Requirements of the Revelation System  
+2. **Architecture Design** – Architecture of the Verses  
+3. **Debugging** – Fixing Apparent Bugs  
+4. **Legacy Code** – Inherited Code from Previous Systems  
+5. **User Experience** – The Human User  
+6. **Deployment & Maintenance** – Deployment and Preservation of Revelation  
+7. **Final Release Notes** – The Final Version Notes  
+
+In each section, relevant Quranic verses are included in Arabic along with translations, so the reader can directly refer to the source text.
 
 ---
 
-## ✉️ ارتباط
-اگر پیشنهادی برای بهبود مقاله یا ترجمه‌ها دارید، می‌توانید از بخش **Issues** یا **Pull Requests** در گیت‌هاب استفاده کنید.
+## ⚖️ License
+This project is published under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).  
+You may redistribute, modify, and translate it, provided you credit the original source and release derivative works under the same license.
+
+---
+
+## ✉️ Contact
+If you have suggestions for improving the article or its translations, feel free to use the **Issues** or **Pull Requests** section on GitHub.
